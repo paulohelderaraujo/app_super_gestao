@@ -8,3 +8,12 @@ Feito controllers Principal, Sobre nós e contato;
 Feito pastas em views - app e site;
 
 Dentro de /resources/views/site as blades principal, sobre nós e contato;
+
+Criando menu de navegação dentro das views;
+
+Agrupando rotas
+Route::prefix('/app')
+
+Alterando as views com rotas nomeadas, com route passando as respectivas rotas
+
+Implementado redirecionamento de rota e rota de contingência (Rota de Fallback)
