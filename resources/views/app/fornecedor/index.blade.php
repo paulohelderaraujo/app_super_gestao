@@ -3,3 +3,10 @@
 {{-- Fica o comentário que será descartado pelo interpretador do blade --}}
 
 @php
+
+
+
+
+@endphp
+
+@dd($fornecedores)
