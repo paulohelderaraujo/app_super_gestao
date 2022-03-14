@@ -4,10 +4,10 @@ Contato: (61) 99939-5666 ; E-mail: paulo@pharaujo.com; Site: infofis.com.br
 
 Um aplicativo de gestão basado no Laravel 7.0 usando o PHP 7.4
 
-Feito controllers Principal, Sobre nós e contato;
+Feito controllers: Principal, Sobre nós e contato;
 Feito pastas em views - app e site;
 
-Dentro de /resources/views/site as blades principal, sobre nós e contato;
+Dentro de /resources/views/site as blades: principal, sobre nós e contato;
 
 Criando menu de navegação dentro das views;
 
